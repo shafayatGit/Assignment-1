@@ -75,6 +75,7 @@ margin-bottom: 30px;
 
 .card{
     padding: 32px;
+    border-radius: 16px;
 }
 
 .card h3{
@@ -124,3 +125,30 @@ width: 120px;
 height: 40px;
 }
 
+/* Younuse Section */
+
+.section_younuse{
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+}
+
+.younuse_description{
+    padding-top: 38px;
+    color: rgba(14, 14, 14, 0.8);
+font-size: 16px;
+font-weight: 400;
+}
+
+.younuse_title{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 600;
+}
+
+.younuse_subtitle{
+    margin-top: -20px;
+    color: rgba(14, 14, 14, 0.6);
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 100px;
+}
