@@ -295,3 +295,71 @@ color: rgba(14, 14, 14, 0.3);
 font-size: 20px;
 font-weight: 400;
 }
+
+/* Sucscribe Section */
+
+.subscribe_container{
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+text-align: center;
+margin-top: 80px;
+}
+
+.all{
+    padding: 80px 100px;
+}
+
+.subscribe_title{
+    color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 16px;
+}
+
+.subscribe_description{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 24px;
+}
+
+.input_btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.subscribe_container input{
+    width: 600px;
+height: 30px;
+padding: 18px 40px;
+border-radius: 8px 0 0 8px;
+border: none;
+color: rgba(14, 14, 14, 0.3);
+font-size: 16px;
+font-weight: 400;
+margin-right: 0px;
+}
+
+.subscribe_container button{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 17px 34px;
+    background-color: rgb(0, 106, 80);
+    border-radius: 0 8px 8px 0;
+    margin-right: 0;
+    border: none;
+}
+
+.subscribe_container button:hover{
+    background-color:lightseagreen;
+    color: darkolivegreen;
+}
+
+.last_desc{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+}
