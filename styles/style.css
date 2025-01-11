@@ -320,7 +320,7 @@ margin-bottom: 16px;
     color: rgba(14, 14, 14, 0.7);
 font-size: 16px;
 font-weight: 400;
-margin-bottom: 24px;
+margin:0 64px 24px 64px;
 }
 
 .input_btn{
